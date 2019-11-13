@@ -1,0 +1,9 @@
+.fatima{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("image/Web-Design-Training-4.jpg");
+                  color:white;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-position: center;
+
+}
